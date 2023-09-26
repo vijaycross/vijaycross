@@ -81,11 +81,10 @@
 </p>
 
 ###
-
-<h3>➤ My Skill Sets :</h3>
+<h3> 🛠 My Skill Sets :</h3>
 <table><tr>
 <td valign="top" width="33%">
-<h3 align="center">Programming Languages</h3>  
+<h3 align="center">Language | Libraries</h3>  
 <div align="center">  
 <a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/HTML.png" alt="html5" height="40" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/CSS.png" alt="css3" height="40" /> </a> 
@@ -93,7 +92,7 @@
 </div></td>
 
 <td valign="top" width="33%">
-<h3 align="center">Tools</h3>
+<h3 align="center">Database</h3>
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/PyTorch.png" alt="pytorch" height="40" /> </a>
 <a href="https://scikit-learn.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/scikitlearn.png" alt="scikit_learn" height="40" /> </a> 
@@ -103,7 +102,7 @@
 </div></td>
 
 <td valign="top" width="33%">
-<h3 align="center">Other Skill's</h3>
+<h3 align="center">Other Tools</h3>
 <div align="center">  
 <a href="https://aws.amazon.com" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/aws.png" alt="aws" height="40" /> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Azure.png" alt="azure" height="40" /> </a> 
