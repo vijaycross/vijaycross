@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vijay !!</h1>
 <h3 align="center">A Passionate Machine Learning Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaycross&label=Profile%20views&color=0e75b6&style=flat" alt="vijaycross" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vijaycross&label=Profile%20views&color=0e75b6&style=flat" alt="vijaycross" /> </p>
 
 - 🔭 I’m currently working on **Data Science**
 
