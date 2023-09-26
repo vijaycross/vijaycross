@@ -86,7 +86,7 @@
 <td valign="top" width="33%">
 <h3 align="center">Language | Libraries</h3>  
 <div align="center">  
-<a href="https://www.w3.org/html/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/HTML.png" alt="html5" height="40" /> </a>
+<a href="https://www.python.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Python.png" alt="python" height="40" /> </a>
 <a href="https://pytorch.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/PyTorch.png" alt="pytorch" height="40" /> </a>
 <a href="https://scikit-learn.org/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/scikitlearn.png" alt="scikit_learn" height="40" /> </a> 
 <a href="https://www.tensorflow.org" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Tensorflow.png" alt="tensorflow" height="40" /> </a>
