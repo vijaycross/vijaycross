@@ -95,11 +95,9 @@
 <td valign="top" width="33%">
 <h3 align="center">Database</h3>
 <div align="center">
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+<a href="  https://www.postgresql.org/" target="_blank" > <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" height="40"  />
 
 <a href="https://www.mysql.com/" target="_blank" > <img style="margin: 10px" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/MySQL.png" alt="mysql" height="40" /> </a>
-
 </div></td>
 
 <td valign="top" width="33%">
