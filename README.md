@@ -34,7 +34,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab"  />
+  <img src="https://i.pinimg.com/564x/47/22/1d/47221d5e13972ebed6e1e8b8fadbd582.jpg" height="40" alt="matplotlib"  />
+  <img width="12" />
+  <img src="https://i.pinimg.com/564x/7f/f7/43/7ff743a57be3d883e12c5880199a59d3.jpg" height="40" alt="seaborn"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow"  />
   <img width="12" />
