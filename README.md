@@ -51,8 +51,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaycross&" alt="vijaycross" /></p>
-
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vijaycross&theme=react"/>
 
