@@ -38,13 +38,13 @@
   <img width="12" />
   <img src="https://github.com/vijaycross/vijaycross/blob/main/img/seaborn.png" height="40" alt="seaborn"  />
   <img width="12" />
-  <img src="https://github.com/vijaycross/vijaycross/blob/main/img/sklearn.png" height="40" alt="sklearn"  />
+  <img src="https://github.com/vijaycross/vijaycross/blob/main/img/scikitlearn.png" height="40" alt="sklearn"  />
   <img width="12" />
   <img src="https://github.com/vijaycross/vijaycross/blob/main/img/tensorflow.png" height="40" alt="tensorflow"  />
   <img width="12" />
   <img src="https://github.com/vijaycross/vijaycross/blob/main/img/pytorch.png" height="40" alt="pytorch"  />
   <img width="12" />
-  <img src="https://github.com/vijaycross/vijaycross/blob/main/img/keras.png" height="40" alt="keras"  />
+  <img src="https://github.com/vijaycross/vijaycross/blob/main/img/keras.jpg" height="40" alt="keras"  />
 </div>
 
 ###
