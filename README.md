@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijaycross" target="blank"><img align="center" src="linkedin" alt="vijaycross" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijaycross" target="blank"><img align="center" src="https://github.com/vijaycross/vijaycross/blob/main/img/linkedin.png" alt="vijaycross" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijaycross" target="blank"><img align="center" src="https://github.com/vijaycross/vijaycross/blob/main/img/kaggle.png" alt="vijaycross" height="30" width="40" /></a>
 <a href="https://twitter.com/vijaycross" target="blank"><img align="center" src="https://github.com/vijaycross/vijaycross/blob/main/img/twitter.png" alt="vijaycross" height="30" width="40" /></a>
 </p>
