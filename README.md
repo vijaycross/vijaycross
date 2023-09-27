@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/apache_hadoop-icon.svg" height="40" alt="hadoop"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" height="40" alt="git"  />
+  <img src="https://github.com/vijaycross/vijaycross/blob/main/img/git.png" height="40" alt="git"  />
 </div>
 
 ###
