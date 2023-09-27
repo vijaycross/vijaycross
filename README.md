@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vijaycross&label=Profile%20views&color=0e75b6&style=flat" alt="vijaycross" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning & AI**
