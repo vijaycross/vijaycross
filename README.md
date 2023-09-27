@@ -81,6 +81,12 @@
   <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="40" alt="keras"  />
 </div>
 
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
 <div align="left">
   <img width="12" />
   <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/powerbi.png" height="40" alt="power bi" />
