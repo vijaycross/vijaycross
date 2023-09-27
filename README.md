@@ -38,15 +38,19 @@
   <img width="12" />
   <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="40" alt="seaborn"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="sklearn"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="40" alt="keras"  />
   <img width="12" />
   <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/powerbi.png" height="40" alt="power bi" />
   <img width="12" />
   <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Tableau.png" height="40" alt="tableau" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"  />
 </div>
@@ -95,6 +99,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"  />
+  <img width="12" />
+  <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Hadoop.png" height="40" alt="hadoop"  />
+  <img width="12" />
+  <img src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Git.png" height="40" alt="git"  />
 </div>
 
 ###
